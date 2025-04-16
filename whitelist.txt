@@ -1,1 +1,145 @@
-||ya.ru
+s3.amazonaws.com
+s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
+.github.com
+.githubusercontent.com
+github.map.fastly.net # CNAME for (raw.githubusercontent.com)
+.gitlab.com
+.apple.com
+.sourceforge.net
+.fls-na.amazon.com # alexa
+.control.kochava.com # alexa 2
+.device-metrics-us-2.amazon.com # alexa 3
+.amazon-adsystem.com # amazon app ads
+.px.moatads.com # amazon app 2
+.wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
+.e13136.g.akamaiedge.net # CNAME for (px.moatads.com)
+.secure-gl.imrworldwide.com # amazon app 3
+.pixel.adsafeprotected.com # amazon app 4
+.anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
+.bs.serving-sys.com # amazon app 5
+.bs.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
+.bsla.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
+.adsafeprotected.com
+.anycast.static.adsafeprotected.com # CNAME for (static.adsafeprotected.com)
+google.com
+www.google.com
+youtube.com
+www.youtube.com
+youtube-ui.l.google.com # CNAME for (youtube.com)
+stackoverflow.com
+www.stackoverflow.com
+dropbox.com
+www.dropbox.com
+www.dropbox-dns.com # CNAME for (dropbox.com)
+control.kochava.com
+secure-gl.imrworldwide.com
+pbs.twimg.com # twitter images
+www.pbs.twimg.com # twitter images
+cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
+cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
+cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+outlook.office.com
+.microsoft.com
+murmage.sharepoint.com
+mail.mage.ru
+app.powerbi.com
+msn.com
+g.live.com
+g.msn.com
+self.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
+.onedrive.live.com
+.odc-web-geo.onedrive.akadns.net # CNAME for (onedrive.live.com)
+.odc-web-brs.onedrive.akadns.net # CNAME for (onedrive.live.com)
+.odwebpl.trafficmanager.net.l-0004.dc-msedge.net.l-0004.l-msedge.net # CNAME for (onedrive.live.com)
+.l-0004.l-msedge.net # CNAME for (onedrive.live.com)
+drive.google.com
+www.drive.google.com
+wide-docs.l.google.com # CNAME for (docs.google.com)
+.disk.yandex.ru # yandex
+yabs.yandex.ru
+www.yabs.yandex.ru
+ad.mail.ru
+www.ad.mail.ru
+r.mail.ru # CNAME for (ad.mail.ru)
+.icloud.com
+.yadi.sk
+.dl.google.com
+.cloud.mail.ru
+.msedge.net
+.download2.vmware.com
+.fd751.vmware.com.edgekey.net # CNAME for (download2.vmware.com)
+.e751.dsce4.akamaiedge.net # CNAME for (download2.vmware.com)
+.cedexis.net
+.mega.nz
+.download.eset.com
+.download.gtm.eset.com # CNAME for (download.eset.com)
+.devid.info
+.datacloudmail.ru
+.logfiles.zoom.us
+.us01-logfiles-va.zoom.us # CNAME for (logfiles.zoom.us)
+.us01-logfiles-va-10.zoom.us # CNAME for (logfiles.zoom.us)
+.az416426.vo.msecnd.net
+.sni1gl.wpc.gammacdn.net # CNAME for (az416426.vo.msecnd.net)
+.akamaihd.net
+.us04logfiles.zoom.us
+.us04-logfiles-va.zoom.us # CNAME for (us04logfiles.zoom.us)
+.us04-logfiles-va-3.zoom.us # CNAME for (us04logfiles.zoom.us)
+.zoom.us
+xn----8sbbilafpyxcf8a.xn--p1ai # Ohrana Truda
+self-events-data.trafficmanager.net
+www.self-events-data.trafficmanager.net
+onedscolprdweu00.westeurope.cloudapp.azure.com # CNAME for (self-events-data.trafficmanager.net)
+xn--80aaaadydm3asaffdchcgjnlscft1a5vsc.xn--p1ai # Ohrana Truda
+click.sender.yandex.ru
+www.click.sender.yandex.ru
+unsubscribe.yandex.ru # CNAME for (click.sender.yandex.ru)
+geo2.adobe.com
+www.geo2.adobe.com
+ssl-delivery.adobe.com.edgekey.net # CNAME for (geo2.adobe.com)
+e4578.dscg.akamaiedge.net # CNAME for (geo2.adobe.com)
+get.adobe.com
+www.get.adobe.com
+get.wip4.adobe.com # CNAME for (get.adobe.com)
+gstaticadssl.l.google.com
+www.gstaticadssl.l.google.com
+seal.digicert.com
+www.seal.digicert.com
+docs.google.com
+www.docs.google.com
+ipapi.co
+www.ipapi.co
+.ftp.acc.umu.se
+.mzstatic.com
+.ss2.us
+.footprintdns.com
+.vk.com
+.us11.besteml.com # что-то для охраны труда
+.bit.ly # техэксперт для охраны труда
+.nicehash.com
+.samsungcloudsolution.com
+.ru.com
+.nichost.ru
+.metrika.kontur.ru
+.trello.com
+mcsm.ru
+.zoho.com
+clck.yandex.ru
+www.clck.yandex.ru
+.gigabyte.com
+.api.action-media.ru # glavbukh
+icanhazip.tacticalrmm.io # RMM check ip
+www.icanhazip.tacticalrmm.io # RMM check ip
+.telegram.org # For Helpdesk Telegram notification
+invitation.cantonfair.org.cn # Artem Goreev
+maxmind.com
+.maxmind.com
+.browser.events.data.trafficmanager.net
+ninite.com
+geodetika.ru
+jnn-pa.googleapis.com # youtube
+www.jnn-pa.googleapis.com # youtube
+.bitrix24.com
+.bitrix24.ru
+.intercom-clicks.com # tana for nikita
